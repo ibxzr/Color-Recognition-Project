@@ -83,8 +83,4 @@ The program shows the detected color name at the top of the video and highlights
 Renad amin faydh  
 Smart Methods Internship 2025  
 
----
 
-## 📬 Contact
-
-Feel free to reach out via GitHub Issues if you have questions or feedback.
