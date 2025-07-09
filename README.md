@@ -80,9 +80,8 @@ The program shows the detected color name at the top of the video and highlights
 
 ## 👩‍💻 Developed by
 
-Renad  
+Renad amin faydh  
 Smart Methods Internship 2025  
-Task: OpenCV Color Recognition Using Video Input
 
 ---
 
